@@ -1,0 +1,11 @@
+//STEP 1: Declare array that you want to sort first e.g arraySort[] := {12, 11, 13, 5, 6}.
+//You may use a function to make the sorting easy.
+   //The array has 5 elements arranged in an unsorted way
+//STEP 2: Know they type of sorting method, in this case, insertion sort
+//STEP 3: know the way insertion sort work. How does it work? Compare the current element to its predecessor in the array.
+//STEP 4: Declare the following variables. i, key, j, n := INTEGER
+   // Where i, and j are counters and key is current element to be compared, n is the length of array.
+   // Where key := arr[i] for this algorithm.
+ //STEP 5:  Move elements of arr[0..i-1], that are greater than key, to one position ahead 
+        //of their current position. This is achieved by comparing method.
+ // Step 6: Then appy the logic after, The result is then printed out.       
